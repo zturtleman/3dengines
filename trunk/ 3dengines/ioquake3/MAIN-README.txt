@@ -4,6 +4,12 @@ Currently, basic changes are taking place to get ioquake where
 I need it in order to be able to move over the changes that I
 had previously done to the Evolution engine.
 
+When building the source code. Make sure to build in Release!
+
+The ioquake3.exe and dll's will be copied to /ioquake3/engine/release with
+all of the additional compiled libraries and such in /release/output to make
+this easier.
+
 
 Current Changelog:
 -----------------------------------------------
